@@ -1,3 +1,21 @@
+
+Tinder App!
+
+Using React 
+
+Firebase (real-time database)
+
+Material-UI for the design (front-end)
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
