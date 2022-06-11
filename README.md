@@ -1,18 +1,18 @@
 
 
 
-# Tinder App!
+# My Tinder App
+<img src="tindereclonegif1.gif" />
 
-## Using React 
-
-### Firebase (real-time database)
-
+## Made with Reactjs and Firebase (real-time database)
 ### Material-UI for the design (front-end)
+### Real-time updating of people cards from database entries 
+<img src="gif22.gif" />
 
 
-# Functionality
-Swiping if funny functional
-messaging UI
-Real-time updating of people cards from database entries 
 
-<img src ="tindereclonegif1.gif" />
+
+# messaging UI
+<img src="new.gif" />
+
+
